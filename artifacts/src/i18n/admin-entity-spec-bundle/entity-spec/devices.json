@@ -3,6 +3,7 @@
   "actionButtons": [{
     "buttonName": {
       "eng": "Activate",
+      "spa": "Activar",
       "ara": "تنشيط",
       "fra": "déclencher",
       "tam": "செயல்படுத்த",
@@ -18,6 +19,7 @@
     {
       "buttonName": {
         "eng": "Deactivate",
+        "spa": "Desactivar",
         "ara": "الغاء تنشيط",
         "fra": "désactiver",
         "tam": "செயலிழக்க",
@@ -33,6 +35,7 @@
     {
       "buttonName": {
         "eng": "Decommission",
+        "spa": "Desmantelamiento",
         "ara": "وقف التشغيل",
         "fra": "mettre hors service",
         "tam": "நீக்கம்",
@@ -48,6 +51,7 @@
     {
       "buttonName": {
         "eng": "Edit",
+        "spa": "Editar",
         "ara": "تصحيح",
         "fra": "modifier",
         "tam": "தொகு",
@@ -63,6 +67,7 @@
     {
       "buttonName": {
         "eng": "Create Device",
+        "spa": "Crear dispositivo",
         "ara": "إإنشاء الجهاز",
         "fra": "Créer un appareil",
         "tam": "சாதனத்தை உருவாக்கவும்",
@@ -79,6 +84,7 @@
     {
       "buttonName": {
         "eng": "Filter",
+        "spa": "Filtrar",
         "ara": "تصفيه",
         "fra": "filtre",
         "tam": "வடிகட்டி",
@@ -100,6 +106,7 @@
     "showInListView": "True",
     "label": {
       "eng": "Device Name",
+      "spa": "Nombre del dispositivo",
       "ara": "اسم الجهاز",
       "fra": "Nom de la Device",
       "tam": "சாதனத்தின் பெயர்",
@@ -116,6 +123,7 @@
       "showInListView": "true",
       "label": {
         "eng": "Device Type",
+        "spa": "Tipo de dispositivo",
         "ara": "نوع الجهاز",
         "fra": "Type de Device",
         "tam": "கருவியின் வகை",
@@ -132,6 +140,7 @@
       "showInListView": "",
       "label": {
         "eng": "Mac Address",
+        "spa": "Dirección Mac",
         "ara": "عنوان",
         "fra": "Mac Adresse",
         "tam": "Mac முகவரி",
@@ -148,6 +157,7 @@
       "showInListView": "",
       "label": {
         "eng": "Serial Number",
+        "spa": "Número de serie",
         "ara": "الرقم التسلسلي",
         "fra": "numéro",
         "tam": "வரிசை எண்",
@@ -164,6 +174,7 @@
       "showInListView": "",
       "label": {
         "eng": "Center",
+        "spa": "Centro",
         "ara": "مركز",
         "fra": "Centre",
         "hin": "केंद्र",
@@ -180,6 +191,7 @@
       "showInListView": "",
       "label": {
         "eng": "Created Time",
+        "spa": "Hora de creación",
         "ara": "الوقت الذي تم إنشاؤه",
         "fra": "Temps créé",
         "tam": "நேரம் உருவாக்கப்பட்டது",
@@ -196,6 +208,7 @@
       "showInListView": "true",
       "label": {
         "eng": "Status",
+        "spa": "Estado",
         "ara": "حاله",
         "fra": "statut",
         "tam": "நிலை",
@@ -217,6 +230,7 @@
     "filtername": "name",
     "filterlabel": {
       "eng": "Device Name",
+      "spa": "Nombre del dispositivo",
       "ara": "اسم الجهاز",
       "fra": "Nom de l'appareil",
       "tam": "பெயர்",
@@ -236,6 +250,7 @@
       "filtername": "isActive",
       "filterlabel": {
         "eng": "Status",
+        "spa": "Estado",
         "ara": "الحالة",
         "fra": "Statut",
         "tam": "நிலை",
@@ -255,6 +270,7 @@
       "filtername": "macAddress",
       "filterlabel": {
         "eng": "MAC Address",
+        "spa": "Dirección MAC",
         "ara": "عنوان ماك",
         "fra": "Adresse Mac",
         "tam": "Mac முகவரி",
@@ -273,6 +289,7 @@
       "filtername": "serialNum",
       "filterlabel": {
         "eng": "Serial Number",
+        "spa": "Número de serie",
         "ara": "رقم سري",
         "fra": "Numéro de série",
         "tam": "வரிசை எண்",
@@ -291,6 +308,7 @@
       "filtername": "deviceTypeName",
       "filterlabel": {
         "eng": "Device Type",
+        "spa": "Tipo de dispositivo",
         "ara": " نوع الجهاز",
         "fra": "Type d'appareil",
         "tam": "கருவியின் வகை",

@@ -4,6 +4,7 @@
     {
       "buttonName": {
         "eng": "Activate",
+        "spa": "Activar",
         "ara": "تنشيط",
         "fra": "déclencher",
         "tam": "செயல்படுத்த",
@@ -19,6 +20,7 @@
     {
       "buttonName": {
         "eng": "Deactivate",
+        "spa": "Desactivar",
         "ara": "الغاء تنشيط",
         "fra": "désactiver",
         "tam": "செயலிழக்க",
@@ -34,6 +36,7 @@
     {
       "buttonName": {
         "eng": "Edit",
+        "spa": "Editar",
         "ara": "تصحيح",
         "fra": "modifier",
         "tam": "தொகு",
@@ -49,6 +52,7 @@
     {
       "buttonName": {
         "eng": "Create",
+        "spa": "Crear",
         "ara": "إضافة مركز",
         "fra": "Ajouter le centre",
         "tam": "உருவாக்கு",
@@ -63,7 +67,9 @@
       "validations": ""
     },
     {
-      "buttonName": { "eng": "Filter",
+      "buttonName": {
+        "eng": "Filter",
+        "spa": "filtrar",
         "fra": "filtre",
         "ara": "تصفيه",
         "tam": "வடிகட்டி",
@@ -84,7 +90,7 @@
       "showInSingleView": "true",
       "label": { "eng": "Code", "ara": "الشفرة", "fra": "Code","tam": "குறியீடு",
         "hin": "कोड",
-        "kan": "ಕೋಡ್"},
+        "kan": "ಕೋಡ್","spa": "Código"},
       "sortOrder": "3",
       "showAsLink": "",
       "linkType": "",
@@ -98,7 +104,7 @@
       "showInSingleView": "true",
       "label": { "eng": "Name", "ara": "اسم", "fra": "prénom","tam": "பெயர்",
         "hin": "नाम",
-        "kan": "ಹೆಸರು"},
+        "kan": "ಹೆಸರು", "spa": "Nombre"},
       "sortOrder": "",
       "showAsLink": "",
       "linkType": "",
@@ -112,7 +118,7 @@
       "showInSingleView": "true",
       "label": { "eng": "Description", "ara": "وصف", "fra": "description","tam": "விளக்கம்",
         "hin": "विवरण",
-        "kan": "ವಿವರಣೆ" },
+        "kan": "ವಿವರಣೆ", "spa": "Descripción"},
       "sortOrder": "",
       "showAsLink": "",
       "linkType": "",
@@ -127,6 +133,7 @@
       "showInSingleView": "false",
       "label": {
         "eng": "Created By",
+        "spa": "Creado por",
         "ara": "تم إنشاؤه من قبل",
         "fra": "Créé par",
         "tam": "உருவாக்கப்பட்டது",
@@ -144,6 +151,7 @@
       "showInSingleView": "false",
       "label": {
         "eng": "Updated By",
+        "spa": "Actualizado por",
         "ara": "تم التحديث بواسطة",
         "fra": "Mise à jour par",
         "tam": "புதுப்பிக்கப்பட்டது",
@@ -161,6 +169,7 @@
       "showInSingleView": "false",
       "label": {
         "eng": "Updated Time",
+        "spa": "Hora actualizada",
         "ara": "وقت التحديث",
         "fra": "Temps mis à jour",
         "tam": "புதுப்பிக்கப்பட்ட நேரம்",
@@ -178,6 +187,7 @@
       "showInSingleView": "false",
       "label": {
         "eng": "Created Time",
+        "spa": "Hora de creación",
         "ara": "الوقت الذي تم إنشاؤه",
         "fra": "Temps créé",
         "tam": "Created Time",
@@ -191,7 +201,7 @@
       "showInSingleView": "false",
       "label": { "eng": "Status", "ara": "نشط", "fra": "c'est actif","tam": "நிலை",
         "hin": "स्थिति",
-        "kan": "ಸ್ಥಿತಿ"},
+        "kan": "ಸ್ಥಿತಿ", "spa": "Estado"},
       "sortOrder": "",
       "showAsLink": "false",
       "linkType": "",
@@ -210,7 +220,7 @@
       "filtername": "name",
       "filterlabel": { "eng": "Name", "ara": "اسم", "fra": "prénom","tam": "பெயர்",
         "hin": "नाम",
-        "kan": "ಹೆಸರು"},
+        "kan": "ಹೆಸರು", "spa": "Nombre"},
       "filterType": "equals",
       "autocomplete": "false",
       "dropdown": "false",
@@ -223,7 +233,7 @@
       "filtername": "isActive",
       "filterlabel": { "eng": "Status", "ara": "نشط", "fra": "Statut", "tam": "நிலை",
         "hin": "स्थिति",
-        "kan": "ಸ್ಥಿತಿ"},
+        "kan": "ಸ್ಥಿತಿ", "spa": "Estado"},
       "filterType": "equals",
       "autocomplete": "false",
       "dropdown": "true",
