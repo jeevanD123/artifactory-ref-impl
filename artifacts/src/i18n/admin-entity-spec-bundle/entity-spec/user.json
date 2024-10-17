@@ -4,6 +4,7 @@
     {
       "buttonName": {
         "eng": "Remap",
+        "spa": "Reasignar",
         "ara": "إعادة رسم خريطة",
         "fra": "remapper",
         "hin": "सरीमैप",
@@ -19,6 +20,7 @@
     {
       "buttonName": {
         "eng": "Map to Center",
+        "spa": "Mapa al centro",
         "ara":"تعيين إلى المركز",
         "fra": "Carte vers le centre",
         "hin": "नक्शा से केंद्र",
@@ -34,6 +36,7 @@
     {
       "buttonName": {
         "eng": "Delete",
+        "spa": "Borrar",
         "ara": "حذف",
         "fra": "Supprimer",
         "hin": "हटाएं",
@@ -49,6 +52,7 @@
     {
       "buttonName": {
         "eng": "Activate",
+        "spa": "Activar",
         "ara": "تنشيط",
         "fra": "déclencher",
         "hin": "सक्रिय",
@@ -64,6 +68,7 @@
     {
       "buttonName": {
         "eng": "Deactivate",
+        "spa": "Desactivar",
         "ara": "الغاء تنشيط",
         "fra": "désactiver",
         "hin": "निष्क्रिय करें",
@@ -79,6 +84,7 @@
     {
       "buttonName": {
         "eng": "Filter",
+        "spa": "Filtrar",
         "fra": "filtre",
         "ara": "تصفيه",
         "tam": "வடிகட்டி",
@@ -98,7 +104,8 @@
       "name": "userName",
       "showInListView": "true",
       "label": { 
-        "eng": "Name", 
+        "eng": "Name",
+        "spa": "Nombre",
         "ara": "ماسم", 
         "fra": "Nom",
         "tam": "பெயர்",
@@ -116,6 +123,7 @@
       "showInListView": "true",
       "label": {
         "eng": "Zone Name",
+        "spa": "Nombre de zona",
         "ara": "نوع المركز",
         "fra": "Type de centre",
         "hin": "जोन कोड",
@@ -133,6 +141,7 @@
       "showInListView": "",
       "label": {
         "eng": "Center",
+        "spa": "Centro",
         "ara": "مركز",
         "fra": "Centre",
         "hin": "केंद्र",
@@ -150,6 +159,7 @@
       "showInListView": "",
       "label": {
         "eng": "CreatedBy",
+        "spa": "Creado por",
         "ara": "الشخص المسؤول",
         "fra": "Personne-ressource",
         "hin": "के द्वारा बनाई गई ",
@@ -166,6 +176,7 @@
       "showInListView": "",
       "label": {
         "eng": "Created Time",
+        "spa": "Hora de creación",
         "ara": "الوقت الذي تم إنشاؤه",
         "fra": "Temps créé",
         "hin": "बनाया गया समय ",
@@ -180,7 +191,7 @@
     {
       "name": "isActive",
       "showInListView": "true",
-      "label": { "eng": "Status", "ara": "حاله", "fra": "statut","hin": "स्थिति", "kan": "ಸ್ಥಿತಿ", "tam": "நிலை" },
+      "label": { "eng": "Status", "spa": "Estado","ara": "حاله", "fra": "statut","hin": "स्थिति", "kan": "ಸ್ಥಿತಿ", "tam": "நிலை" },
       "sortOrder": "",
       "showAsLink": "false",
       "linkType": "",
@@ -195,7 +206,7 @@
   "filterColumns": [
     {
       "filtername": "userName",
-      "filterlabel": { "eng": "Name", "ara": "اسم", "fra": "Nom", "tam": "பெயர்", "hin": "नाम","kan": "ಹೆಸರು" },
+      "filterlabel": { "eng": "Name", "spa": "Nombre","ara": "اسم", "fra": "Nom", "tam": "பெயர்", "hin": "नाम","kan": "ಹೆಸರು" },
       "filterType": "equals",
       "fieldType": "input",
       "autocomplete": "false",
@@ -207,7 +218,7 @@
     },
     {
       "filtername": "zoneName",
-      "filterlabel": { "eng": "Zone Name", "ara": "اسم المنطقة", "fra": "Nom de la zone", "tam": "மண்டல பெயர்", "hin": "क्षेत्र का नाम","kan": "ವಲಯದ ಹೆಸರು" },
+      "filterlabel": { "eng": "Zone Name", "spa": "Nombre de zona","ara": "اسم المنطقة", "fra": "Nom de la zone", "tam": "மண்டல பெயர்", "hin": "क्षेत्र का नाम","kan": "ವಲಯದ ಹೆಸರು" },
       "filterType": "equals",
       "fieldType": "input",
       "autocomplete": "false",
@@ -221,6 +232,7 @@
       "filtername": "regCenterName",
       "filterlabel": {
         "eng": "Center",
+        "spa": "Centro",
         "ara": "مركز",
         "fra": "Centre",
         "hin": "केंद्र",
