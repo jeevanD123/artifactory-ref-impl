@@ -4,6 +4,7 @@
     {
       "buttonName": {
         "eng": "Activate",
+        "spa": "Activar",
         "ara": "تنشيط",
         "fra": "déclencher",
         "hin": "सक्रिय",
@@ -19,6 +20,7 @@
     {
       "buttonName": {
         "eng": "Deactivate",
+        "spa": "Desactivar",
         "ara": "الغاء تنشيط",
         "fra": "désactiver",
         "hin": "निष्क्रिय करें",
@@ -34,6 +36,7 @@
     {
       "buttonName": {
         "eng": "Edit",
+        "spa": "Editar",
         "ara": "تصحيح",
         "fra": "modifier",
         "hin": "संपादित करें",
@@ -49,6 +52,7 @@
     {
       "buttonName": {
         "eng": "Create",
+        "spa": "Crear",
         "ara": "إضافة مركز",
         "fra": "Ajouter le centre",
         "hin": "बनाएं",
@@ -63,7 +67,7 @@
       "validations": ""
     },
     {
-      "buttonName": { "eng": "Filter", "ara": "تصفيه", "fra": "filtre","hin": "फ़िल्टर", "kan": "ಫಿಲ್ಟರ್ ಮಾಡಿ","tam": "வடிகட்டி"},
+      "buttonName": { "eng": "Filter", "spa": "Filtrar", "ara": "تصفيه", "fra": "filtre","hin": "फ़िल्टर", "kan": "ಫಿಲ್ಟರ್ ಮಾಡಿ","tam": "வடிகட்டி"},
       "imagePath": "assets/images/filter.png",
       "actionListType": "action",
       "actionURL": { "case": "filter" },
@@ -77,7 +81,7 @@
       "name": "code",
       "showInListView": "true",
       "showInSingleView": "true",
-      "label": { "eng": "Code", "ara": "الشفرة", "fra": "Code","hin": "कोड", "kan": "ಕೋಡ್", "tam": "குறியீடு" },
+      "label": { "eng": "Code", "spa": "Código", "ara": "الشفرة", "fra": "Code","hin": "कोड", "kan": "ಕೋಡ್", "tam": "குறியீடு" },
       "sortOrder": "3",
       "showAsLink": "",
       "linkType": "",
@@ -89,7 +93,7 @@
       "name": "genderName",
       "showInListView": "true",
       "showInSingleView": "true",
-      "label": { "eng": " Gender Name", "ara": "اسم", "fra": "prénom","hin": " लिंग का नाम", "kan": "ಲಿಂಗ ಹೆಸರು", "tam": "பாலின பெயர்" },
+      "label": { "eng": " Gender Name", "spa": "Nombre de género", "ara": "اسم", "fra": "prénom","hin": " लिंग का नाम", "kan": "ಲಿಂಗ ಹೆಸರು", "tam": "பாலின பெயர்" },
       "sortOrder": "",
       "showAsLink": "",
       "linkType": "",
@@ -102,6 +106,7 @@
       "showInListView": "false",
       "label": {
         "eng": "Created By",
+        "spa": "Creado por",
         "ara": "تم إنشاؤه من قبل",
         "fra": "Créé par",
         "hin": "के द्वारा बनाई गई",
@@ -118,6 +123,7 @@
       "showInListView": "false",
       "label": {
         "eng": "Updated By",
+        "spa": "Actualizado por",
         "ara": "تم التحديث بواسطة",
         "fra": "Mise à jour par",
         "hin": "द्वारा अपडेट",
@@ -134,6 +140,7 @@
       "showInListView": "false",
       "label": {
         "eng": "Updated Time",
+        "spa": "Hora actualizada",
         "ara": "وقت التحديث",
         "fra": "Temps mis à jour",
         "hin": "अद्यतन समय",
@@ -150,6 +157,7 @@
       "showInListView": "true",
       "label": {
         "eng": "Created Time",
+        "spa": "Hora de creación",
         "ara": "الوقت الذي تم إنشاؤه",
         "fra": "Temps créé",
         "hin": "बनाया गया समय",
@@ -165,7 +173,7 @@
       "name": "isActive",
       "showInListView": "true",
       "showInSingleView": "false",
-      "label": { "eng": "Status", "ara": "حاله", "fra": "statut","hin": "स्थिति", "kan": "ಸ್ಥಿತಿ", "tam": "நிலை" },
+      "label": { "eng": "Status", "spa": "Estado", "ara": "حاله", "fra": "statut","hin": "स्थिति", "kan": "ಸ್ಥಿತಿ", "tam": "நிலை" },
       "sortOrder": "",
       "showAsLink": "false",
       "linkType": "",
@@ -182,7 +190,7 @@
   "filterColumns":  [
     {
       "filtername": "genderName",
-      "filterlabel": { "eng": "Name", "ara": "اسم", "fra": "prénom","hin": "नाम", "kan": "ಹೆಸರು", "tam": "பெயர்"},
+      "filterlabel": { "eng": "Name", "spa": "Nombre", "ara": "اسم", "fra": "prénom","hin": "नाम", "kan": "ಹೆಸರು", "tam": "பெயர்"},
       "filterType": "equals",
       "autocomplete": "false",
       "dropdown": "false",
@@ -193,7 +201,7 @@
     },
     {
       "filtername": "isActive",
-      "filterlabel": { "eng": "Status", "ara": "نشط", "fra": "Statut","hin": "स्थिति", "kan": "ಸ್ಥಿತಿ", "tam": "நிலை"},
+      "filterlabel": { "eng": "Status", "spa": "Estado", "ara": "نشط", "fra": "Statut","hin": "स्थिति", "kan": "ಸ್ಥಿತಿ", "tam": "நிலை"},
       "filterType": "equals",
       "autocomplete": "false",
       "dropdown": "true",

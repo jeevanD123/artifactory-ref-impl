@@ -4,6 +4,7 @@
     {
       "buttonName": {
         "eng": "Resume Processing",
+        "spa": "Reanudar procesamiento",
         "ara": "ااستئناف المعالجة",
         "fra": "Reprendre le traitement",
         "hin": "प्रसंस्करण फिर से शुरू करें",
@@ -19,6 +20,7 @@
     {
       "buttonName": {
         "eng": "Resume from the beginning",
+        "spa": "Reanudar desde el principio",
         "ara": "استئناف من البداية",
         "fra": "Reprendre depuis le début",
         "hin": "शुरुआत से फिर से शुरू",
@@ -34,6 +36,7 @@
     {
       "buttonName": {
         "eng": "Reject",
+        "spa": "Rechazar",
         "ara": "يرفض",
         "fra": "Rejeter",
         "hin": "अस्वीकार",
@@ -47,7 +50,7 @@
       "callBackFunction": "stopprocessing"
     },
     {
-      "buttonName": { "eng": "Filter", "ara": "تصفيه", "fra": "filtre" , "hin": "पफ़िल्टर", "kan": "ಫಿಲ್ಟರ್ ಮಾಡಿ", "tam": "வடிகட்டி"},
+      "buttonName": { "eng": "Filter", "spa": "Filtrar","ara": "تصفيه", "fra": "filtre" , "hin": "पफ़िल्टर", "kan": "ಫಿಲ್ಟರ್ ಮಾಡಿ", "tam": "வடிகட்டி"},
       "imagePath": "assets/images/filter.png",
       "actionListType": "action",
       "actionURL": { "case": "filter" },
@@ -60,7 +63,7 @@
     {
       "name": "workflowId",
       "showInListView": "True",
-      "label": { "eng": "RID", "ara": "ايتخلص", "fra": "DÉBARRASSER" ,"hin": "पंजीयन पहचान  ","kan": "ಆರ್ಐಡಿ","tam": "தவிர்ந்திடு"},
+      "label": { "eng": "RID", "spa": "DESHACERSE","ara": "ايتخلص", "fra": "DÉBARRASSER" ,"hin": "पंजीयन पहचान  ","kan": "ಆರ್ಐಡಿ","tam": "தவிர்ந்திடு"},
       "sortOrder": "3",
       "showAsLink": "",
       "linkType": "",
@@ -69,7 +72,7 @@
     {
       "name": "workflowType",
       "showInListView": "True",
-      "label": { "eng": "Type of packet", "ara": "نوع الحزمة", "fra": "Type de paquet" , "hin": "पैकेट का प्रकार", "kan": "ಪ್ಯಾಕೆಟ್ ಪ್ರಕಾರ", "tam": "பாக்கெட் வகை"},
+      "label": { "eng": "Type of packet", "spa": "tipo de paquete","ara": "نوع الحزمة", "fra": "Type de paquet" , "hin": "पैकेट का प्रकार", "kan": "ಪ್ಯಾಕೆಟ್ ಪ್ರಕಾರ", "tam": "பாக்கெட் வகை"},
       "sortOrder": "3",
       "showAsLink": "",
       "linkType": "",
@@ -78,7 +81,7 @@
     {
       "name": "statusComment",
       "showInListView": "True",
-      "label": { "eng": "Rule Description", "ara": "وصف القاعدة", "fra": "Description de la règle" , "hin": "नियम विवरण", "kan": "ನಿಯಮದ ವಿವರಣೆ", "tam": "விதி விளக்கம்"},
+      "label": { "eng": "Rule Description", "spa": "Descripción de la regla","ara": "وصف القاعدة", "fra": "Description de la règle" , "hin": "नियम विवरण", "kan": "ನಿಯಮದ ವಿವರಣೆ", "tam": "விதி விளக்கம்"},
       "sortOrder": "3",
       "showAsLink": "",
       "linkType": "",
@@ -87,7 +90,7 @@
     {
       "name": "currentStageName",
       "showInListView": "True",
-      "label": { "eng": "Current Stage", "ara": "المرحلة الحالية", "fra": "Étape actuelle","hin": "वर्तमान स्थिति ","kan": "ಪ್ರಸ್ತುತ ಹಂತ     ","tam": "தற்போதைய நிலை " },
+      "label": { "eng": "Current Stage","spa": "Etapa actual", "ara": "المرحلة الحالية", "fra": "Étape actuelle","hin": "वर्तमान स्थिति ","kan": "ಪ್ರಸ್ತುತ ಹಂತ     ","tam": "தற்போதைய நிலை " },
       "sortOrder": "3",
       "showAsLink": "",
       "linkType": "",
@@ -102,7 +105,7 @@
   "filterColumns": [
     {
       "filtername": "workflowId",
-      "filterlabel": { "eng": "RID", "ara": "يتخلص,","fra": "DÉBARRASSER",
+      "filterlabel": { "eng": "RID", "spa": "DESHACERSE","ara": "يتخلص,","fra": "DÉBARRASSER",
       "hin": "पंजीयन पहचान  ",
       "kan": "ಆರ್ಐಡಿ     ",
       "tam": "தவிர்ந்திடு  "},
@@ -117,7 +120,7 @@
     },
     {
       "filtername": "workflowType",
-      "filterlabel": { "eng": "Type of packet", "ara": "نوع الحزمة", "fra": "Type de paquet" , "hin": "पैकेट का प्रकार", "kan": "ಪ್ಯಾಕೆಟ್ ಪ್ರಕಾರ", "tam": "பாக்கெட் வகை"},
+      "filterlabel": { "eng": "Type of packet", "spa": "tipo de paquete","ara": "نوع الحزمة", "fra": "Type de paquet" , "hin": "पैकेट का प्रकार", "kan": "ಪ್ಯಾಕೆಟ್ ಪ್ರಕಾರ", "tam": "பாக்கெட் வகை"},
       "filterType": "contains",
       "fieldType": "input",
       "autocomplete": "false",

@@ -4,6 +4,7 @@
     {
       "buttonName": {
         "eng": "Upload Data",
+        "spa": "Cargar datos",
         "ara": "إضافة مركز",
         "fra": "Ajouter le centre",
         "hin": "डेटा अपलोड करें  ",
@@ -22,7 +23,7 @@
     {
       "name": "transcationId",
       "showInListView": "true",
-      "label": { "eng": "Transcation ID", "ara": "مركز ", "fra": "Centre" ,
+      "label": { "eng": "Transcation ID", "spa": "ID de transacción","ara": "مركز ", "fra": "Centre" ,
         "hin": "लेन-देन आईडी  ",
         "kan": "ವಹಿವಾಟು ID   ",
         "tam": "பரிவர்த்தனை ஐடி  "},
@@ -34,7 +35,7 @@
     {
       "name": "entityName",
       "showInListView": "true",
-      "label": {"eng": "Table Name", "ara": "نوع المركز", "fra": "Type de centre",
+      "label": {"eng": "Table Name", "spa": "Nombre de la tabla","ara": "نوع المركز", "fra": "Type de centre",
         "hin": "तालिका नाम   ",
         "kan": "ಟೇಬಲ್ ಹೆಸರು ",
         "tam": " அட்டவணை பெயர்   "},
@@ -46,7 +47,7 @@
     {
       "name": "operation",
       "showInListView": "true",
-      "label": { "eng": "Operation", "ara": "حاله", "fra": "statut" ,
+      "label": { "eng": "Operation", "spa": "Operación","ara": "حاله", "fra": "statut" ,
         "hin": "कार्यवाही    ",
         "kan": "ಕಾರ್ಯಾಚರಣೆ  ",
         "tam": " செயல்பாடு  "},
@@ -58,7 +59,7 @@
     {
       "name": "count",
       "showInListView": "",
-      "label": {"eng": "Count","ara": "المستخدمين","fra": "Utilisateur","hin": "गिनती   ",
+      "label": {"eng": "Count","spa": "Contar","ara": "المستخدمين","fra": "Utilisateur","hin": "गिनती   ",
         "kan": "ಎಣಿಕೆ  ",
         "tam": "எண்ணிக்கை "},
       "sortOrder": "",
@@ -69,7 +70,7 @@
     {
       "name": "status",
       "showInListView": "",
-      "label": {"eng": "Status", "ara": "الأجهزة", "fra": "Dispositifs",
+      "label": {"eng": "Status", "spa": "Estado","ara": "الأجهزة", "fra": "Dispositifs",
         "hin": "स्थिति   ",
         "kan": "ಸ್ಥಿತಿ   ",
         "tam": "நிலை "},
@@ -81,7 +82,7 @@
     {
       "name": "uploadedBy",
       "showInListView": "",
-      "label": {"eng": "Uploaded By", "ara": "آلات", "fra": "Machines",
+      "label": {"eng": "Uploaded By", "spa": "Subido por","ara": "آلات", "fra": "Machines",
         "hin": "द्वारा डाली गई  ",
         "kan": "ಇವರಿಂದ ಅಪ್‌ಲೋಡ್ ಮಾಡಲಾಗಿದೆ   ",
         "tam": "பதிவேற்றியது  "},
@@ -93,7 +94,7 @@
     {
       "name": "timeStamp",
       "showInListView": "",
-      "label": {"eng": "Date Time", "ara": "هاتف مُتَكَون", "fra": "Téléphone Contact",
+      "label": {"eng": "Date Time", "spa": "Fecha Hora","ara": "هاتف مُتَكَون", "fra": "Téléphone Contact",
         "hin": "समय टिकट    ",
         "kan": "ಟೈಮ್‌ಸ್ಟ್ಯಾಂಪ್  ",
         "tam": " நேர முத்திரை  "},

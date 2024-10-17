@@ -4,6 +4,7 @@
     {
       "buttonName": {
         "eng": "Activate",
+        "spa": "Activar",
         "ara": "تنشيط",
         "fra": "déclencher",
         "hin": "सक्रिय ",
@@ -19,6 +20,7 @@
     {
       "buttonName": {
         "eng": "Deactivate",
+        "spa": "Desactivar",
         "ara": "الغاء تنشيط",
         "fra": "désactiver",
         "hin": "निष्क्रिय करें  ",
@@ -34,6 +36,7 @@
     {
       "buttonName": {
         "eng": "Edit",
+        "spa": "Editar",
         "ara": "تصحيح",
         "fra": "modifier",
         "hin": "संपादित करें ",
@@ -49,6 +52,7 @@
     {
       "buttonName": {
         "eng": "Create",
+        "spa": "Crear",
         "ara": "إضافة مركز",
         "fra": "Ajouter le centre",
         "hin": "सर्जन करना  ",
@@ -63,7 +67,7 @@
       "validations": ""
     },
     {
-      "buttonName": { "eng": "Filter", "ara": "تصفيه", "fra": "filtre","hin": "फ़िल्टर", "kan":"ಫಿಲ್ಟರ್ ಮಾಡಿ","tam":"வடிகட்டி"  },
+      "buttonName": { "eng": "Filter", "spa": "Filtrar","ara": "تصفيه", "fra": "filtre","hin": "फ़िल्टर", "kan":"ಫಿಲ್ಟರ್ ಮಾಡಿ","tam":"வடிகட்டி"  },
       "imagePath": "assets/images/filter.png",
       "actionListType": "action",
       "actionURL": { "case": "filter" },
@@ -73,7 +77,8 @@
     },
     {
       "buttonName": {
-        "eng": "Template not available in English",
+          "eng": "Template not available in English",
+        "spa": "Plantilla no disponible en inglés",
         "ara": "النموذج غير متوفر باللغة العربية",
         "fra": "Modèle non disponible en français" ,
         "hin": "टेम्प्लेट हिंदी में उपलब्ध नहीं है  ",
@@ -86,6 +91,7 @@
         "case": "missingData",
         "title": {
           "eng": "Template not available in English",
+          "spa": "Plantilla no disponible en inglés",
           "ara": "النموذج غير متوفر باللغة العربية",
           "fra": "Modèle non disponible en français" ,
           "hin": "टेम्प्लेट हिंदी में उपलब्ध नहीं है  ",
@@ -94,6 +100,7 @@
         },
         "columnNames": [{
           "eng": "Template ID",
+          "spa": "ID de plantilla",
           "ara": "معرف القالب",
           "fra": "ID de modèle",
           "hin": "टेम्पलेट आईडी   ",
@@ -101,6 +108,7 @@
           "tam": "வார்ப்புரு ஐடி   "
         },{
           "eng": "Name",
+          "spa": "Nombre",
           "ara": "اسم",
           "fra": "nom",
           "hin": "नाम    ",
@@ -121,6 +129,7 @@
       "showInSingleView": "true",
       "label": {
         "eng": "Name",
+        "spa": "Nombre",
         "ara": "اسم",
         "fra": "nom",
         "hin": "नाम    ",
@@ -140,6 +149,7 @@
       "showInSingleView": "true",
       "label": {
         "eng": "Description",
+        "spa": "Descripción",
         "ara": "وصف",
         "fra": "décrire",
         "hin": "विवरण    ",
@@ -159,6 +169,7 @@
       "showInSingleView": "true",
       "label": {
         "eng": "Model",
+        "spa": "Modelo",
         "ara": "نموذج",
         "fra": "forme",
         "hin": "नमूना ",
@@ -178,6 +189,7 @@
       "showInSingleView": "true",
       "label": {
         "eng": "Scenario",
+        "spa": "Guión",
         "ara": "السيناريو",
         "fra": "scénario",
         "hin": "परिदृश्य ",
@@ -197,6 +209,7 @@
       "showInSingleView": "true",
       "label": {
         "eng": "Template Format",
+        "spa": "Formato de plantilla",
         "ara": "تنسيق القالب",
         "fra": "Modèle de format",
         "hin": "टेम्पलेट प्रारूप ",
@@ -216,6 +229,7 @@
       "showInSingleView": "true",
       "label": {
         "eng": "Template",
+        "spa": "Plantilla",
         "ara": "قالب",
         "fra": "format",
         "hin": "टेम्पलेट ",
@@ -235,6 +249,7 @@
       "showInSingleView": "true",
       "label": {
         "eng": "Module Name",
+        "spa": "Module Name",
         "ara": "اسم الوحدة النمطية",
         "fra": "Nom du module",
         "hin": "मोड्यूल का नाम  ",
@@ -254,6 +269,7 @@
       "showInSingleView": "false",
       "label": {
         "eng": "Module Name",
+        "spa": "Nombre del módulo",
         "ara": "اسم الوحدة النمطية",
         "fra": "Nom du module",
         "hin": "मोड्यूल का नाम  ",
@@ -273,6 +289,7 @@
       "showInSingleView": "false",
       "label": {
         "eng": "Created By",
+        "spa": "Creado por",
         "ara": "تم إنشاؤه من قبل",
         "fra": "Créé par",
         "hin": "बनाया गया समय  ",
@@ -290,6 +307,7 @@
       "showInSingleView": "false",
       "label": {
         "eng": "Updated By",
+        "spa": "Actualizado por",
         "ara": "تم التحديث بواسطة",
         "fra": "Mise à jour par",
         "hin": "द्वारा अपडेट   ",
@@ -307,6 +325,7 @@
       "showInSingleView": "false",
       "label": {
         "eng": "Updated Time",
+        "spa": "Hora actualizada",
         "ara": "وقت التحديث",
         "fra": "Temps mis à jour",
         "hin": "दअपडेट किया गया समय  ",
@@ -324,6 +343,7 @@
       "showInSingleView": "false",
       "label": {
         "eng": "Template ID",
+        "spa": "ID de plantilla",
         "ara": "معرف القالب",
         "fra": "ID de modèle",
         "hin": "टेम्पलेट आईडी   ",
@@ -341,6 +361,7 @@
       "showInSingleView": "false",
       "label": {
         "eng": "Created Time",
+        "spa": "Hora de creación",
         "ara": "الوقت الذي تم إنشاؤه",
         "fra": "Temps créé",
         "hin": "बनाया गया समय  ",
@@ -356,7 +377,7 @@
       "name": "isActive",
       "showInListView": "true",
       "showInSingleView": "false",
-      "label": { "eng": "Status", "ara": "نشط", "fra": "c'est actif","hin": "स्थिति","kan":"ಸ್ಥಿತಿ","tam":"நிலை" },
+      "label": { "eng": "Status", "spa": "Estado","ara": "نشط", "fra": "c'est actif","hin": "स्थिति","kan":"ಸ್ಥಿತಿ","tam":"நிலை" },
       "sortOrder": "",
       "showAsLink": "false",
       "linkType": "",
@@ -375,6 +396,7 @@
       "filtername": "name",
       "filterlabel": {
         "eng": "Name",
+        "spa": "Nombre",
         "ara": "اسم",
         "fra": "nom",
         "hin": "नाम    ",
@@ -393,6 +415,7 @@
       "filtername": "moduleName",
       "filterlabel": {
         "eng": "Module Name",
+        "spa": "Nombre del módulo",
         "ara": "اسم الوحدة النمطية",
         "fra": "Nom du module",
         "hin": "मोड्यूल का नाम  ",
@@ -410,7 +433,8 @@
     {
       "filtername": "isActive",
       "filterlabel": {
-         "eng": "Status", 
+         "eng": "Status",
+        "spa": "Estado",
          "ara": "نشط", 
          "fra": "Statut",
          "hin": "स्थिति",
