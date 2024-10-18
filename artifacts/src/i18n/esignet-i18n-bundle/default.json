@@ -1,11 +1,13 @@
 {
   "languages_2Letters": {
     "en": "English",
+    "es": "Española",
     "km": "ខ្មែរ"
   },
   "rtlLanguages": [],
   "langCodeMapping": {
     "eng": "en",
+    "spa": "es",
     "khm": "km"
   }
 }
